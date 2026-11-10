@@ -131,4 +131,4 @@ _Contribution guidelines to be added._
 
 ## License
 
-_To be decided._
+_MIT_
